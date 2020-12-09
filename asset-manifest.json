@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/smalltown/static/css/main.48ec87a1.chunk.css",
-    "main.js": "/smalltown/static/js/main.089b3bee.chunk.js",
-    "main.js.map": "/smalltown/static/js/main.089b3bee.chunk.js.map",
+    "main.js": "/smalltown/static/js/main.f292adff.chunk.js",
+    "main.js.map": "/smalltown/static/js/main.f292adff.chunk.js.map",
     "runtime-main.js": "/smalltown/static/js/runtime-main.52d90f2c.js",
     "runtime-main.js.map": "/smalltown/static/js/runtime-main.52d90f2c.js.map",
     "static/js/2.20f5dc77.chunk.js": "/smalltown/static/js/2.20f5dc77.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.52d90f2c.js",
     "static/js/2.20f5dc77.chunk.js",
     "static/css/main.48ec87a1.chunk.css",
-    "static/js/main.089b3bee.chunk.js"
+    "static/js/main.f292adff.chunk.js"
   ]
 }
