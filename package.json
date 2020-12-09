@@ -25,6 +25,7 @@
     "start": "react-scripts start",
     "startsec": "HTTPS=true react-scripts start",
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -81,5 +82,6 @@
     ],
     "snapshotSerializers": []
   },
-  "proxy": "http://localhost:4000"
+  "proxy": "http://localhost:4000",
+  "homepage": "http://lucianojardim.github.io/smalltown"
 }
