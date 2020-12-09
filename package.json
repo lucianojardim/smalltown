@@ -84,5 +84,5 @@
     "snapshotSerializers": []
   },
   "proxy": "http://localhost:4000",
-  "homepage": "http://lucianojardim.github.io/smalltown"
+  "homepage": "https://lucianojardim.github.io/smalltown"
 }
